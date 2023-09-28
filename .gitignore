@@ -162,3 +162,4 @@ cython_debug/
 tutorial.ipynb
 w2vecmodel.mod
 w2vecmodel.mod.vectors.npy
+data/
